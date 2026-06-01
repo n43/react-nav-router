@@ -1,0 +1,37 @@
+# deps
+node_modules/
+
+# build
+dist/
+temp/
+
+# vitepress
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+docs/api/
+
+# tests
+coverage/
+.nyc_output/
+e2e-results/
+playwright-report/
+test-results/
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# env
+.env
+.env.local
+
+# worktrees
+.worktrees/

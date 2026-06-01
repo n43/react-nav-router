@@ -1,0 +1,12 @@
+dist
+temp
+coverage
+docs/.vitepress/cache
+docs/.vitepress/dist
+docs/api
+docs/superpowers
+node_modules
+pnpm-lock.yaml
+playwright-report
+test-results
+etc/*.api.md
