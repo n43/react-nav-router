@@ -2,10 +2,10 @@
 
 Lightweight iOS-style stack router for React 18.
 
-[![CI](https://github.com/TODO/react-nav-router/actions/workflows/ci.yml/badge.svg)](https://github.com/TODO/react-nav-router/actions/workflows/ci.yml)
-[![Docs](https://github.com/TODO/react-nav-router/actions/workflows/docs.yml/badge.svg)](https://github.com/TODO/react-nav-router/actions/workflows/docs.yml)
+[![CI](https://github.com/n43/react-nav-router/actions/workflows/ci.yml/badge.svg)](https://github.com/n43/react-nav-router/actions/workflows/ci.yml)
+[![Docs](https://github.com/n43/react-nav-router/actions/workflows/docs.yml/badge.svg)](https://github.com/n43/react-nav-router/actions/workflows/docs.yml)
 
-> Documentation & live demos: <https://TODO.github.io/react-nav-router>
+> Documentation & live demos: <https://n43.github.io/react-nav-router/>
 
 ## Install
 

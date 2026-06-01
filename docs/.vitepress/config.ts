@@ -40,7 +40,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/TODO/react-nav-router',
+        link: 'https://github.com/n43/react-nav-router',
       },
     ],
   },
