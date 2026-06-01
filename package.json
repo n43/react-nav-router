@@ -1,6 +1,6 @@
 {
   "name": "react-nav-router",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight iOS-style stack router for React 18.",
   "license": "MIT",
   "author": "mingenesis",
